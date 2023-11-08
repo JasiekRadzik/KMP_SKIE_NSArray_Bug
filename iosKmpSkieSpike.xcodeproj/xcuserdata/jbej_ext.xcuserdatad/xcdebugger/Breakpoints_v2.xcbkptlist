@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7E78CC0-31DF-496B-86AE-740DE16B4271"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8BA4455-A098-4825-8A9A-BC4B407338D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosKmpSkieSpike/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "getCallSuspendFunctionTask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8BA4455-A098-4825-8A9A-BC4B407338D5 - e2fc3f9b6426ddf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosKmpSkieSpike.TestViewModel.convertTestEnumToTextColorViewState(testEnum: shared.TestEnum) -&gt; iosKmpSkieSpike.TextColorViewState"
+                  moduleName = "iosKmpSkieSpike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbej_ext/Documents/kmp_skie_spike/iosKmpSkieSpike/iosKmpSkieSpike/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "D8BA4455-A098-4825-8A9A-BC4B407338D5 - 8167b1ff7c153274"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.String in iosKmpSkieSpike.TestViewModel.getCallSuspendFunctionTask() -&gt; Swift.Task&lt;Swift.String, Swift.Never&gt;"
+                  moduleName = "iosKmpSkieSpike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbej_ext/Documents/kmp_skie_spike/iosKmpSkieSpike/iosKmpSkieSpike/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "924E4D26-4325-434E-8E52-EC62FFCDF61C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosKmpSkieSpike/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "testCoroutineCancellation"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34B1705D-1164-441F-90F7-873C3C8F06FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosKmpSkieSpike/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "testCoroutineCancellation"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
