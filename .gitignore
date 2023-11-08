@@ -1,0 +1,20 @@
+# Global Folders
+build/
+.externalNativeBuild/
+
+# Local Folders
+/.idea/*
+/.gradle
+/captures
+
+# Global Files
+.DS_Store
+
+# Local Files
+/local.properties
+
+# Global Extensions
+*.iml
+
+# Exceptions
+!/.idea/codeStyleSettings.xml
